@@ -8,8 +8,8 @@ Python: [pyfasta](https://pypi.python.org/packages/source/p/pyfasta/pyfasta-0.5.
 
 Input Files:
 ------------
-fasta-ids.txt -Input files with single coloumn contains fasta ids
-main-fasta.fasta -File with Fasta records(This should be in Fasta format)
+- fasta-ids.txt -Input files with single coloumn contains fasta ids
+- main-fasta.fasta -File with Fasta records(This should be in Fasta format)
 
 Codes:
 ------
